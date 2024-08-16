@@ -1,0 +1,8 @@
+
+
+* There is a gramy with age 116 Between runners :)) 
+* There are Several runners with Age -9, -1 and 0 and 1, they are filltered.
+
+
+- Only diffrance Between Numeric_age and Text_Age is Their datatype. i Duplicated Age Column to having age as Text.
+now i can count each age and calculate mode dynamicly. 
